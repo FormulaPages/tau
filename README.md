@@ -1,5 +1,7 @@
 # tau
 
+![circleci](https://circleci.com/gh/FormulaPages/tau.svg?style=shield&circle-token=:circle-token)
+
 PI is wrong. Read the [Tau Manifesto](http://tauday.com/tau-manifesto).
 
 ## Install
