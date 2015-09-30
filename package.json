@@ -1,0 +1,20 @@
+{
+  "name": "formula-tau",
+  "version": "1.0.0",
+  "description": "TAU function",
+  "main": "TAU.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "babel TAU.es6 -m umd --out-file TAU.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/tau.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/tau/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/tau#readme"
+}
