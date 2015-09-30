@@ -1,6 +1,6 @@
 # tau
 
-PI is wrong. Read the [Tau Manifesto][http://tauday.com/tau-manifesto]
+PI is wrong. Read the [Tau Manifesto](http://tauday.com/tau-manifesto).
 
 ## Install
 
